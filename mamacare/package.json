@@ -1,0 +1,43 @@
+{
+  "name": "mamacare",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-native-picker/picker": "^2.11.1",
+    "@react-navigation/drawer": "^7.5.3",
+    "@react-navigation/native": "^7.1.14",
+    "@react-navigation/native-stack": "^7.3.21",
+    "bikram-sambat-js": "^1.0.2",
+    "expo": "~53.0.17",
+    "expo-file-system": "~18.1.11",
+    "expo-status-bar": "~2.2.3",
+    "nepali-date-converter": "^3.4.0",
+    "react": "19.0.0",
+    "react-hook-form": "^7.60.0",
+    "react-native": "0.79.5",
+    "react-native-calendars": "^1.1313.0",
+    "react-native-circular-progress": "^1.4.1",
+    "react-native-element-dropdown": "^2.12.4",
+    "react-native-gesture-handler": "^2.27.1",
+    "react-native-reanimated": "^3.18.0",
+    "react-native-safe-area-context": "^5.5.1",
+    "react-native-screens": "^4.11.1",
+    "react-native-svg": "^15.12.0",
+    "react-native-svg-circular-progress": "^1.0.4",
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-webview": "13.13.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@types/react": "~19.0.10",
+    "typescript": "~5.8.3"
+  },
+  "private": true
+}

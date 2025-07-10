@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Dal Bhat (rice+dal)",
+    "calories": 350
+  },
+  {
+    "name": "Momo (filled dumplings)",
+    "calories": 280
+  },
+  {
+    "name": "Gundruk (fermented greens)",
+    "calories": 50
+  },
+  {
+    "name": "Aloo Tama (potato+bamboo)",
+    "calories": 200
+  },
+  {
+    "name": "Saag (leafy greens)",
+    "calories": 40
+  },
+  {
+    "name": "Chatamari (rice crepe)",
+    "calories": 180
+  },
+  {
+    "name": "Yomari (sweet)",
+    "calories": 300
+  },
+  {
+    "name": "Phapar ko Roti (buckwheat)",
+    "calories": 150
+  },
+  {
+    "name": "Kachilaa (raw meat)",
+    "calories": 250
+  },
+  {
+    "name": "Dhido (millet porridge)",
+    "calories": 200
+  },
+  {
+    "name": "Kwati (mixed beans soup)",
+    "calories": 180
+  },
+  {
+    "name": "Kinema (fermented soybean)",
+    "calories": 120
+  },
+  {
+    "name": "Ghonghi (snails curry)",
+    "calories": 130
+  },
+  {
+    "name": "Chhurpi (dried cheese)",
+    "calories": 400
+  },
+  {
+    "name": "Thukpa (noodle soup)",
+    "calories": 300
+  },
+  {
+    "name": "Aloo Dum (fried potato curry)",
+    "calories": 220
+  },
+  {
+    "name": "Chatpate (spicy puffed rice)",
+    "calories": 150
+  },
+  {
+    "name": "Bara (lentil patty)",
+    "calories": 180
+  },
+  {
+    "name": "Sekuwa (grilled meat)",
+    "calories": 220
+  },
+  {
+    "name": "Sukuti (dried meat)",
+    "calories": 350
+  },
+  {
+    "name": "Dhikri (rice dumpling)",
+    "calories": 160
+  },
+  {
+    "name": "Pitha (rice cake)",
+    "calories": 190
+  },
+  {
+    "name": "Laphing (starch noodles)",
+    "calories": 160
+  },
+  {
+    "name": "Sakarni (curd dessert)",
+    "calories": 200
+  },
+  {
+    "name": "Juju dhau (king curd)",
+    "calories": 180
+  },
+  {
+    "name": "Tongba (millet beverage)",
+    "calories": 120
+  },
+  {
+    "name": "Butter Tea (Himalayan)",
+    "calories": 200
+  },
+  {
+    "name": "Chhaang (fermented drink)",
+    "calories": 150
+  },
+  {
+    "name": "Phapar roti (buckwheat bread)",
+    "calories": 160
+  },
+  {
+    "name": "Pulao (vegetable rice)",
+    "calories": 220
+  },
+  {
+    "name": "Masu (meat curry)",
+    "calories": 300
+  },
+  {
+    "name": "Tarkari (mixed veggies)",
+    "calories": 120
+  },
+  {
+    "name": "Achar (pickle)",
+    "calories": 50
+  },
+  {
+    "name": "Chiura (beaten rice)",
+    "calories": 120
+  },
+  {
+    "name": "Bhatmas (fried soybeans)",
+    "calories": 180
+  },
+  {
+    "name": "Batuk (lentil donut)",
+    "calories": 200
+  },
+  {
+    "name": "Bagiya (filled rice roll)",
+    "calories": 170
+  },
+  {
+    "name": "Dudh puwa (rice porridge)",
+    "calories": 180
+  },
+  {
+    "name": "Sudha roti (flatbread)",
+    "calories": 130
+  },
+  {
+    "name": "Kodo ko roti (millet)",
+    "calories": 150
+  },
+  {
+    "name": "Sargemba (blood sausage)",
+    "calories": 250
+  },
+  {
+    "name": "Rikikur (potato pancake)",
+    "calories": 170
+  },
+  {
+    "name": "Rildhuk (potato soup)",
+    "calories": 180
+  },
+  {
+    "name": "Singhal (bread)",
+    "calories": 160
+  },
+  {
+    "name": "Puwa (rice cake)",
+    "calories": 175
+  },
+  {
+    "name": "Chaku haluwa (jaggery dessert)",
+    "calories": 300
+  },
+  {
+    "name": "Gobhi tarkari (cauliflower)",
+    "calories": 110
+  },
+  {
+    "name": "Bhindi tarkari (okra)",
+    "calories": 90
+  },
+  {
+    "name": "Pumpkin curry",
+    "calories": 90
+  },
+  {
+    "name": "Palung saag (swiss chard)",
+    "calories": 35
+  },
+  {
+    "name": "Chicken Egg",
+    "calories": 155
+  },
+  {
+    "name": "Duck Egg",
+    "calories": 185
+  },
+  {
+    "name": "Quail Egg",
+    "calories": 158
+  },
+  {
+    "name": "Buffalo Meat",
+    "calories": 250
+  },
+  {
+    "name": "Goat Meat",
+    "calories": 122
+  },
+  {
+    "name": "Chicken Meat",
+    "calories": 239
+  },
+  {
+    "name": "Fish (Rohu)",
+    "calories": 206
+  },
+  {
+    "name": "Spinach",
+    "calories": 23
+  },
+  {
+    "name": "Mustard Greens",
+    "calories": 27
+  },
+  {
+    "name": "Pumpkin",
+    "calories": 26
+  },
+  {
+    "name": "Cauliflower",
+    "calories": 25
+  },
+  {
+    "name": "Carrot",
+    "calories": 41
+  },
+  {
+    "name": "Tomato",
+    "calories": 18
+  },
+  {
+    "name": "Potato",
+    "calories": 77
+  },
+  {
+    "name": "Green Peas",
+    "calories": 81
+  },
+  {
+    "name": "Sel Roti (sweet rice bread)",
+    "calories": 360
+  },
+  {
+    "name": "Tharu Bhat (sticky rice)",
+    "calories": 350
+  },
+  {
+    "name": "Maithili Fish Curry",
+    "calories": 220
+  },
+  {
+    "name": "Newari Choila (spiced grilled meat)",
+    "calories": 260
+  },
+  {
+    "name": "Yak Cheese",
+    "calories": 350
+  },
+  {
+    "name": "Gundruk ko Achar (fermented greens pickle)",
+    "calories": 30
+  },
+  {
+    "name": "Walnuts",
+    "calories": 654
+  },
+  {
+    "name": "Peanuts",
+    "calories": 567
+  },
+  {
+    "name": "Sesame Seeds (Til)",
+    "calories": 573
+  },
+  {
+    "name": "Turmeric (powder)",
+    "calories": 312
+  },
+  {
+    "name": "Ginger (fresh)",
+    "calories": 80
+  },
+  {
+    "name": "Amla (Indian Gooseberry)",
+    "calories": 44
+  },
+  {
+    "name": "Lapsi (Nepali Hog Plum)",
+    "calories": 48
+  },
+  {
+    "name": "Wild Mushroom (various)",
+    "calories": 22
+  },
+  {
+    "name": "Chiya (milk tea)",
+    "calories": 50
+  },
+  {
+    "name": "Til (sesame seed) Laddu",
+    "calories": 400
+  }
+]
