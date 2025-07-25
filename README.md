@@ -1,5 +1,5 @@
 # MamaCare
-It is a pregnancy care care app that tracts nutrition, suggest food there is also the feature to add partner.
+It is a pregnancy care app that tracts nutrition, suggest food there is also the feature to add partner.
 ## Features
 1. Nutrition calculator
 2. Food suggestion
